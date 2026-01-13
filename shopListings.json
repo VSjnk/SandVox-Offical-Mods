@@ -1,6 +1,5 @@
 {
-  "Mods" {
+  "Mods" : {
   "Test Mod" : ["If you are reading this, the file downloaded correctly!"]
   }
-
 }
