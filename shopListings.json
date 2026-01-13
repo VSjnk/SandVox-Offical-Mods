@@ -1,7 +1,7 @@
 {
   "Mods" : {
-	  "Candy_Carnage_Peter_Hard_Candy_Zombie" : ["Candy_Carnage_Peter_Hard_Candy_Zombie.zip", "placeholder.png"],
-	  "Candy_Carnage_Map" : ["Candy_Carnage_Map.zip", "placeholder.png"],
-	  "Candy_Carnage_Drum_gun" : ["Candy_Carnage_Drum_gun.zip", "placeholder.png"]
+	  "Candy_Carnage_Peter_Hard_Candy_Zombie" : ["Candy_Carnage_Peter_Hard_Candy_Zombie.zip", "placeholder.png", 23882925],
+	  "Candy_Carnage_Map" : ["Candy_Carnage_Map.zip", "placeholder.png", 102242089],
+	  "Candy_Carnage_Drum_gun" : ["Candy_Carnage_Drum_gun.zip", "placeholder.png", 28244644]
   }
 }
