@@ -1,5 +1,7 @@
 {
   "Mods" : {
-  "Test Mod" : ["If you are reading this, the file downloaded correctly!"]
+	  "Candy_Carnage_Peter_Hard_Candy_Zombie" : ["Candy_Carnage_Peter_Hard_Candy_Zombie.zip", "placeholder.png"],
+	  "Candy_Carnage_Map" : ["Candy_Carnage_Map.zip", "placeholder.png"],
+	  "Candy_Carnage_Drum_gun" : ["Candy_Carnage_Drum_gun.zip", "placeholder.png"]
   }
 }
