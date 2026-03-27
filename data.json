@@ -1,13 +1,12 @@
 {
   "Store" : {
 	"logo" : ["logo.png", 254588],
-	"name" : "Offical SandVox Store",
-	"listings" : ["Candy_Carnage_Peter_Hard_Candy_Zombie", "Candy_Carnage_Map", "Candy_Carnage_Drum_gun"]
+	"name" : "Offical SandVox Store"
   },
   "Mods" : {
-	"Candy_Carnage_Peter_Hard_Candy_Zombie" : ["Candy_Carnage_Peter_Hard_Candy_Zombie.zip", "placeholder", 23882925],
-	"Candy_Carnage_Map" : ["Candy_Carnage_Map.zip", "placeholder", 102242089],
-	"Candy_Carnage_Drum_gun" : ["Candy_Carnage_Drum_gun.zip", "placeholder", 28244644]
+	"Candy Carnage Peter Hard Candy Zombie" : ["Candy_Carnage_Peter_Hard_Candy_Zombie.zip", "placeholder", 23882925],
+	"Candy Carnage  Map" : ["Candy_Carnage_Map.zip", "placeholder", 102242089],
+	"Candy Carnage Drum gun" : ["Candy_Carnage_Drum_gun.zip", "placeholder", 28244644]
   },
   "Logos" : { 
 	"placeholder" : ["logos/placeholder.png", 1907]
