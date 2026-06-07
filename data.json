@@ -4,7 +4,7 @@
 	"name" : "Offical SandVox Store"
   },
   "Mods" : {
-	"Candy Carnage Drum Gun" : ["Candy_Carnage_Drum_Gun.zip", "placeholder", 26623036]
+	"Candy Carnage Drum Gun" : ["Candy_Carnage_Drum_gun.zip", "placeholder", 26623036]
   },
   "Logos" : { 
 	"placeholder" : ["logos/placeholder.png", 1907]
